@@ -97,7 +97,7 @@ p, q{
 } 
 
 p > q{
-	text-decoration: italic;
+	font-style: italic;
 }
 
 .year{
